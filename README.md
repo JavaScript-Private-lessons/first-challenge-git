@@ -4,11 +4,11 @@
 
 ## Latar Belakang
 
-> Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
+> Motivasi apa yang mendorongmu Anda untuk belajar Javascript?)
 
 ## Motivasi
 
-> Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?
+> Beri tahu kami, apa yang ingin kamu dapatkan Setelah belajar Javascript?
 
 ## Ekspektasi
 
