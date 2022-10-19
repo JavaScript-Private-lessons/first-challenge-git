@@ -4,7 +4,7 @@
 
 ## Latar Belakang
 
-> Motivasi apa yang mendorongmu Anda untuk belajar Javascript?)
+> Motivasi apa yang mendorongmu Anda untuk belajar Javascript?
 
 ## Motivasi
 
