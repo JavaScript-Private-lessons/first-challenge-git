@@ -10,6 +10,7 @@
 ## Motivasi
 
 > Beri tahu kami, apa yang ingin kamu dapatkan Setelah belajar Javascript?
+>kdd
 
 ## Ekspektasi
 
